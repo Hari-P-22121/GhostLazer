@@ -3,7 +3,7 @@ redoo = 1
 while (redoo == 1):	
 	os.system('clear')
 	print("""\033[91m\033[1m[GhostLazer]""")
-	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\033[0;0m
+	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\n[Github: https://github.com/Hari-P-22121/GhostLazer]\033[0;0m
 \033[1m""")
 	hostName = raw_input('Enter IP/Hostname: ')
 	if (hostName > ''):
