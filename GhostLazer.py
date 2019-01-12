@@ -13,7 +13,7 @@ redoo = 1
 while (redoo == 1):
 	os.system('clear')
 	print("""\033[91m\033[1m[GhostLazer]""")
-	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\033[0;0m
+	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\n[Github: https://github.com/Hari-P-22121/GhostLazer]\033[0;0m
 \033[1m""")
 	byteNumber = raw_input('Enter number of bytes to send per thread: MAX: 8000 ')
 	try:
@@ -31,7 +31,7 @@ redoo = 1
 while (redoo == 1):
 	os.system('clear')
 	print("""\033[91m\033[1m[GhostLazer]""")
-	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\033[0;0m
+	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\n[Github: https://github.com/Hari-P-22121/GhostLazer]\033[0;0m
 \033[1m""")
 	threadNumber = raw_input('Enter number of threads: ')
 	try:
@@ -43,6 +43,9 @@ os.system('clear')
 redoo = 1
 while (redoo == 1):
 	os.system('clear')
+	print("""\033[91m\033[1m[GhostLazer]""")
+	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\n[Github: https://github.com/Hari-P-22121/GhostLazer]\033[0;0m
+\033[1m""")
 	numTimes = raw_input('Enter number of times to fire lazer: ')
 	try:
 		numTimes = int(numTimes)
@@ -53,6 +56,9 @@ os.system('clear')
 redoo = 1
 while (redoo == 1):
 	os.system('clear')
+	print("""\033[91m\033[1m[GhostLazer]""")
+	print("""\033[91m\033[1m[Developer: Hari Patel @ hari.p.2212@gmail.com]\n[Github: https://github.com/Hari-P-22121/GhostLazer]\033[0;0m
+\033[1m""")
 	delayy = raw_input('Enter delay between each shot: (MIN: 0.1 seconds) ')
 	try:
 		delayy = int(delayy)
